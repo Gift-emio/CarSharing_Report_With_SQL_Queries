@@ -3,8 +3,10 @@
 This repository contains SQL queries and documentation for analysing a car-sharing dataset. This dataset includes information about customer demand rate, weather conditions and temperature data collected on hourly hourly basis from January 2017 to August 2018.
 ## Files
 - **SQL_queries.sql**: Contains SQL queries used to analyze the dataset and answer specific business questons.
-- **Data_Model_ERD.png**: Entity-relationship diagram (ERD) illustrating the data model and relationships between tables.
-- **Data_Dictionary.md**: Documentation describing the structure and contents of each table in the dataset.
+- **Data_Model_ERD.png**: Entity-relationship diagram (ERD) illustrating the data model and relationships between tables. ![image](https://github.com/user-attachments/assets/aab68c56-49c8-44d0-ad03-16619b4d8de4)
+
+- **Data_Dictionary.md**: Documentation describing the structure and contents of each table in the dataset. ![image](https://github.com/user-attachments/assets/c7d60dc1-0231-45a3-ada0-f05cdd1de680)
+
 - **README.md**: This file provides an overview of the repository and instructions for accessing and using the SQL queries.
 
 Click 👉 [Here](https://drive.google.com/drive/folders/1-xIJNwqBYKU0rYWj64w35DqN6LSV3s2c?usp=sharing) 👈 to see these files.
